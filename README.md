@@ -9,9 +9,9 @@ It enables the addition and management of dentists, dental assistants, and patie
 
 ## 📁 Project Structure
 
-- `DentalClinicDriver.java` — The main driver class that presents a menu-based interface for user interaction and controls the application's flow.
-- `Clinic.java` — A container class representing a dental clinic, encapsulating information such as name, code, term, and lists of staff and patients.
-- `Individual.java` — A container class used to represent a person (dentist, assistant, or patient) with ID, name, and charge details.
+- `DentalClinicDriver.java`  The main driver class that presents a menu-based interface for user interaction and controls the application's flow.
+- `Clinic.java`  A container class representing a dental clinic, encapsulating information such as name, code, term, and lists of staff and patients.
+- `Individual.java`  A container class used to represent a person (dentist, assistant, or patient) with ID, name, and charge details.
 
 ---
 
